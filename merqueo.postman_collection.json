@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "cacafe9f-87a7-44ec-a993-2fa843aa915c",
+		"name": "merqueo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "200",
+			"item": [
+				{
+					"name": "obtener posts",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": null
+					},
+					"response": []
+				},
+				{
+					"name": "obtener posts 1",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": null
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
